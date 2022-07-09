@@ -10,12 +10,12 @@ Improbable Beef, a fictional food startup, has had success in synthesizing meat 
 ## The Charts
 ### Horiztonal Bar Chart 
 The bar chart displays the top 10 bacterial species in a participant's naval. Each bacteria can be identified by the OTU ID number on the left hand side or hovering over the bar will display its scientific name. 
-![bar](images/bar.png)
+![bar](bar.png)
 
 ### Gauge Chart 
 The gauge chart displays the number of times each week the participant washed their naval on a scale of 0-10.
-![gauge](images/gauge.png)
+![gauge](gauge.png)
 
 ### Bubble Chart 
 The bubble chart displays the number of cultures for each bacteria in the participant's naval. Bacteria with a larger number of cultures has a larger marker (i.e. more cultures = bigger marker). Each bacteria can be identified by hovering over the marker. 
-![bubble](images/bubble.png)
+![bubble](bubble.png)
